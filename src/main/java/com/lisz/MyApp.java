@@ -10,7 +10,7 @@ import java.io.FileWriter;
 import java.util.HashMap;
 import java.util.Map;
 
-// 这个Enjoy比FM和velocity快3-4bei s
+// 这个Enjoy比FM和velocity快3-4倍
 public class MyApp {
 	public void createHtml() throws Exception {
 		Engine engine = Engine.use();
