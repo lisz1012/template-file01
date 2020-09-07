@@ -64,6 +64,13 @@
       <scope>provided</scope>
     </dependency>
 
+    <!-- 非JFinal环境下使用Enjoy，只需引入这个依赖 -->
+    <dependency>
+      <groupId>com.jfinal</groupId>
+      <artifactId>enjoy</artifactId>
+      <version>4.9</version>
+    </dependency>
+
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
