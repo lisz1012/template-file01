@@ -43,5 +43,4 @@ public class CreateHtmlFileController {
 		template.process(dataModel, writer);
 		return "ok";
 	}
-
 }
